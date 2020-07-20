@@ -1,1 +1,1 @@
-# semi-supervised-learning-methods
+# Semi-Supervised Learning Methods
